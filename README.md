@@ -50,6 +50,9 @@ https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Mobile_development
 
 BUGS
 ----
+  - Data Import does not work properly -- file uploads and settings do import, but the extensions page remains blank and shows no preferences or bookmarks (OS X 10.9.5, Chrome Version 48.0.2564.97 (64-bit))
+  - Trashcan-rated works still occasionally show up in tags despite showing they've been properly rated, and others don't 'save' the rating (OS X 10.9.5, Chrome Version 48.0.2564.97 (64-bit))
+  - "Recently Read Works" remains blank since first installing the extension, despite having used the extension since shortly after its release (OS X 10.9.5, Chrome Version 48.0.2564.97 (64-bit))
   - Please report any others you find!
 
 TODO
